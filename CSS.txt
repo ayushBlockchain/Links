@@ -1,0 +1,22 @@
+CSS 
+
+Frame works  ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+1   https://shoelace.style/components/card
+2   https://tanstack.com/
+3   https://getbootstrap.com/
+4   https://www.radix-ui.com/themes/playground
+5   https://react-spectrum.adobe.com/react-aria/components.html
+6   https://ui.shadcn.com/
+7   https://daisyui.com/components/
+8   https://chakra-ui.com/playground
+9   https://mui.com/material-ui/getting-started/usage/
+10  https://tailwindcss.com/plus
+11  https://procomponents.ant.design/en-US/components/page-container
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
